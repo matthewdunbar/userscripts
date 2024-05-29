@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Reader Dev Commands
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/matthewdunbar
 // @version      2024-05-17
 // @description  try to take over the world!
 // @author       You
 // @match        *://*/*
-// @url          https://raw.githubusercontent.com/matthewdunbar/userscripts/master/epublican-view.js
+// @url          https://github.com/matthewdunbar/epublican-view.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @run-at       document-idle
 // @grant        none
