@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        *://*/*
-// @url          https://github.com/matthewdunbar/epublican-view.js
+// @url          https://raw.githubusercontent.com/matthewdunbar/userscripts/master/epublican-view.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @run-at       document-idle
 // @grant        none
