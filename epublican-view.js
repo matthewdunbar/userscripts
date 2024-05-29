@@ -30,22 +30,22 @@ window.sendCommand = (cmd) => {
 };
 
 window.Commands = {
-  // setToken: (token) => {
-  //   return {
-  //     _type: "SetAccessToken",
-  //     requestId: "requestId",
-  //   };
-  // },
+  setToken: (token) => {
+    return {
+      _type: "SetAccessToken",
+      requestId: "requestId",
+    };
+  },
   openCSB: {
     _type: "OpenBook",
     contentId: "3BAFECA7-66C1-40BC-B6E5-AFDE2D94B527",
     requestId: "requestId",
   },
-  // navigateToLocation: (location) => {
-  //   return {
-  //     _type: "NavigateToLocation",
-  //     location: location,
-  //     requestId: "requestId",
-  //   };
-  // },
+  navigateToLocation: (location) => {
+    return {
+      _type: "NavigateToLocation",
+      location: location,
+      requestId: "requestId",
+    };
+  },
 };
