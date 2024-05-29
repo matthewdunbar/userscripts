@@ -11,6 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
+
 window.ReactNativeWebView = {
   postMessage: (msg) => {
     console.log(`Received message from diode ${msg}`);
