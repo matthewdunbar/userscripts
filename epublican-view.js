@@ -6,10 +6,13 @@
 // @author       You
 // @match        *://*/*
 // @url          https://raw.githubusercontent.com/matthewdunbar/userscripts/master/epublican-view.js
+// @downloadURL  https://raw.githubusercontent.com/matthewdunbar/userscripts/master/epublican-view.js
+// @updateURL    https://raw.githubusercontent.com/matthewdunbar/userscripts/master/epublican-view.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @run-at       document-idle
 // @grant        none
 // @version      1.0
+
 // ==/UserScript==
 
 window.ReactNativeWebView = {
