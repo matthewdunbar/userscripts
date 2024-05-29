@@ -13,7 +13,7 @@
 
 window.ReactNativeWebView = {
   postMessage: (msg) => {
-    console.log(`Received message from diode: ${msg}`);
+    console.log(`Received message from diode| ${msg}`);
   },
 };
 
